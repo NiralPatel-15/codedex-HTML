@@ -1,84 +1,86 @@
-### 🌋 The Origins I: HTML
-Beginner-Friendly HTML Challenges from Codédex
+<div align="center">
+  <br>
+  <h1>🌋 Codédex HTML: Beginner Challenges</h1>
+  <strong>Learn HTML step-by-step with creative, hands-on projects</strong>
+  <br><br>
+</div>
 
-Welcome to The Origins I: HTML, a curated collection of beginner-level HTML challenges inspired by the Codédex HTML curriculum. Whether you're just starting out or brushing up on the fundamentals, you're in the right place!
+Welcome to **Codédex HTML Challenges**! 🚀  
+This repository is built for beginners who want to master HTML by building real, fun projects. It’s based on the amazing [Codédex HTML Course](https://www.codedex.io/html) and includes solutions, enhancements, and unique takes on each challenge.
 
 ---
 
-### 💡 Why This Project?
-This repository provides reference solutions and invites you to contribute your own creative versions of each challenge. Perfect for learners, educators, and hobbyists alike.
+### 🌐 Official Course
 
-### 🧱 Challenge Categories
-🔸 Elements
-Learn to use the core building blocks of HTML.
+📘 Follow along on [Codédex HTML](https://www.codedex.io/html)
 
-star.html
-
-elemental.html
-
-newspaper.html
-
-corporate.html
-
-chef.html
-
-pet.html
-
-band.html
 ---
-### 🔸 Structure
-Master layout and organization with structural tags.
 
-blueprint.html
+## 🧱 Challenge Categories
 
-family_tree.html
+### 🔸 Elements  
+Core HTML elements used in everyday web development.
 
-craigslist_ad.html
+- [`star.html`](./1-elements/star.html)
+- [`elemental.html`](./1-elements/elemental.html)
+- [`newspaper.html`](./1-elements/newspaper.html)
+- [`corporate.html`](./1-elements/corporate.html)
+- [`chef.html`](./1-elements/chef.html)
+- [`pet.html`](./1-elements/pet.html)
+- [`band.html`](./1-elements/band.html)
 
-wiki_article.html
-
-lorem_ipsum.html
-
-power_rangers.html
-
-top_8.html
 ---
-### 🔸 Forms
-Practice creating forms and handling user input.
 
-google.html
+### 🔹 Structure  
+Layout and hierarchy using semantic structure.
 
-sign_up_v1.html
+- [`blueprint.html`](./2-structure/blueprint.html)
+- [`family_tree.html`](./2-structure/family_tree.html)
+- [`craigslist_ad.html`](./2-structure/craigslist_ad.html)
+- [`wiki_article.html`](./2-structure/wiki_article.html)
+- [`lorem_ipsum.html`](./2-structure/lorem_ipsum.html)
+- [`power_rangers.html`](./2-structure/power_rangers.html)
+- [`top_8.html`](./2-structure/top_8.html)
 
-sign_up_v2.html
-
-rsvp.html
-
-contact_us.html
-
-welp.html
 ---
-### 🔸 Semantic HTML
-Learn to structure HTML content meaningfully with semantic elements.
 
-the_header.html
+### 🔸 Forms  
+Get hands-on with user inputs and form elements.
 
-main_footer.html
+- [`google.html`](./3-forms/google.html)
+- [`sign_up_v1.html`](./3-forms/sign_up_v1.html)
+- [`sign_up_v2.html`](./3-forms/sign_up_v2.html)
+- [`rsvp.html`](./3-forms/rsvp.html)
+- [`contact_us.html`](./3-forms/contact_us.html)
+- [`welp.html`](./3-forms/welp.html)
 
-blog_posts.html
-
-figures.html
-
-final_touches.html
 ---
-### 🌐 Website
-👉 Visit the official Codédex HTML Course
+
+### 🔹 Semantic HTML  
+Meaningful tags to structure your content the right way.
+
+- [`the_header.html`](./4-semantic-html/the_header.html)
+- [`main_footer.html`](./4-semantic-html/main_footer.html)
+- [`blog_posts.html`](./4-semantic-html/blog_posts.html)
+- [`figures.html`](./4-semantic-html/figures.html)
+- [`final_touches.html`](./4-semantic-html/final_touches.html)
+
 ---
-### 🤝 Contributing
-Pull requests are welcome! If you have creative spins or improvements on these challenges, feel free to fork this repo and submit a PR. Let’s build and learn together!
+
+## 🤝 Contributions Welcome!
+
+Have a creative spin on a project? ✨  
+Feel free to fork this repo and open a pull request. Let’s grow and learn together!
+
 ---
-### 💬 Stay Connected
-✨ Join the Codédex Club or attend our workshops for more coding challenges and interactive learning.
+
+## 💬 Join the Community
+
+💡 Want more interactive challenges and workshops?  
+Join the [Codédex Community](https://www.codedex.io/community) and connect with other developers!
+
 ---
-### 📜 License
-This project is licensed under the MIT License.
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
