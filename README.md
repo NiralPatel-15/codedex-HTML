@@ -1,4 +1,4 @@
-🌋 The Origins I: HTML
+##🌋 The Origins I: HTML
 Beginner-Friendly HTML Challenges from Codédex
 
 Welcome to The Origins I: HTML, a curated collection of beginner-level HTML challenges inspired by the Codédex HTML curriculum. Whether you're just starting out or brushing up on the fundamentals, you're in the right place!
