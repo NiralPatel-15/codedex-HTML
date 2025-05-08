@@ -3,10 +3,12 @@ Beginner-Friendly HTML Challenges from Codédex
 
 Welcome to The Origins I: HTML, a curated collection of beginner-level HTML challenges inspired by the Codédex HTML curriculum. Whether you're just starting out or brushing up on the fundamentals, you're in the right place!
 
-💡 Why This Project?
+---
+
+### 💡 Why This Project?
 This repository provides reference solutions and invites you to contribute your own creative versions of each challenge. Perfect for learners, educators, and hobbyists alike.
 
-🧱 Challenge Categories
+### 🧱 Challenge Categories
 🔸 Elements
 Learn to use the core building blocks of HTML.
 
@@ -23,8 +25,8 @@ chef.html
 pet.html
 
 band.html
-
-🔸 Structure
+---
+### 🔸 Structure
 Master layout and organization with structural tags.
 
 blueprint.html
@@ -40,8 +42,8 @@ lorem_ipsum.html
 power_rangers.html
 
 top_8.html
-
-🔸 Forms
+---
+### 🔸 Forms
 Practice creating forms and handling user input.
 
 google.html
@@ -55,8 +57,8 @@ rsvp.html
 contact_us.html
 
 welp.html
-
-🔸 Semantic HTML
+---
+### 🔸 Semantic HTML
 Learn to structure HTML content meaningfully with semantic elements.
 
 the_header.html
@@ -68,15 +70,15 @@ blog_posts.html
 figures.html
 
 final_touches.html
-
-🌐 Website
+---
+### 🌐 Website
 👉 Visit the official Codédex HTML Course
-
-🤝 Contributing
+---
+### 🤝 Contributing
 Pull requests are welcome! If you have creative spins or improvements on these challenges, feel free to fork this repo and submit a PR. Let’s build and learn together!
-
-💬 Stay Connected
+---
+### 💬 Stay Connected
 ✨ Join the Codédex Club or attend our workshops for more coding challenges and interactive learning.
-
-📜 License
+---
+### 📜 License
 This project is licensed under the MIT License.
