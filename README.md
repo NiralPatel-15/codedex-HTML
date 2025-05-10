@@ -61,10 +61,12 @@ Collecting user input with form elements.
 
 Using meaningful tags for better structure and accessibility.
 
-- [semantic.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/15_semantic.html)
-- [article.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/16_article.html)
-- [profile.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/17_profile.html)
-
+- [22_the_header.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/22_the_header.html)
+- [23_main_footer.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/23_main_footer.html)
+- [24_blog_post.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/24_blog_post.html)
+- [25_figures.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/25_figures.html)
+- [26_final_touches.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/26_final_touches.html)
+  
 ---
 
 ## 🚀 Getting Started
