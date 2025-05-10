@@ -36,26 +36,31 @@ Core HTML elements used in everyday web development.
 
 Layout and hierarchy using semantic tags.
 
-- [structure.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/structure.html)
-- [story.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/story.html)
-- [resume.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/resume.html)
-- [blog.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/blog.html)
+- [08_blueprint.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/08_blueprint.html)
+- [09_family_tree.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/09_family_tree.html)
+- [10_craigslist_ad.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/10_craigslist_ad.html)
+- [11_wiki_article.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/11_wiki_article.html)
+- [12_lorem_ipsum.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/12_lorem_ipsum.html)
+- [13_power_ranger.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/13_power_ranger.html)
+- [14_top_8.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/14_top_8.html)
+- [Spiderman.png](https://github.com/NiralPatel-15/codedex-HTML/blob/main/2-structure/Spiderman.png)
+
 
 ### 📝 3. Forms
 
 Collecting user input with form elements.
 
-- [form.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/form.html)
-- [survey.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/survey.html)
-- [signup.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/signup.html)
+- [form.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/12_form.html)
+- [survey.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/13_survey.html)
+- [signup.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/14_signup.html)
 
 ### 🏷️ 4. Semantic HTML
 
 Using meaningful tags for better structure and accessibility.
 
-- [semantic.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/semantic.html)
-- [article.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/article.html)
-- [profile.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/profile.html)
+- [semantic.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/15_semantic.html)
+- [article.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/16_article.html)
+- [profile.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/4-semantic-html/17_profile.html)
 
 ---
 
