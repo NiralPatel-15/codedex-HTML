@@ -20,19 +20,17 @@ This repository is built for beginners who want to master HTML by building real,
 
 This repository is built for beginners who want to master HTML by building real, fun projects. It’s based on the [Codédex HTML Course](https://www.codedex.io/html) and includes solutions, enhancements, and unique takes on each challenge.:contentReference[oaicite:9]{index=9}
 
-## 📁 Challenge Categories
-
 ### 🧱 1. Elements
 
 Core HTML elements used in everyday web development.
 
-- [star.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/star.html)
-- [elemental.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/elemental.html)
-- [newspaper.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/newspaper.html)
-- [corporate.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/corporate.html)
-- [chef.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/chef.html)
-- [pet.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/pet.html)
-- [band.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/band.html)
+- [01-star.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/01_star.html)
+- [02-elemental.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/02_elemental.html)
+- [03-newspaper.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/03_newspaper.html)
+- [04-corporate.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/04_corporate.html)
+- [05-chef.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/05_chef.html)
+- [06-pet.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/06_pet.html)
+- [07-band.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/1-element/07_band.html)
 
 ### 🧩 2. Structure
 
