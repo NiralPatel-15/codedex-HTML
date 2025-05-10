@@ -1,0 +1,197 @@
+<!-- Final Touches 🖌️ -->
+ 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Blog</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fdfdfd;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin-top: 10px;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 50px;
+        }
+
+        h2 {
+            color: #444;
+            margin-bottom: 15px;
+        }
+
+        article {
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+        }
+
+        article img {
+            width: 100%;
+            max-width: 150px;
+            border-radius: 5px;
+        }
+
+        figure {
+            margin-bottom: 10px;
+        }
+
+        figcaption {
+            font-size: 0.9rem;
+            color: #777;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        footer ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+
+        footer a {
+            color: #ccc;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            color: white;
+        }
+
+        @media (max-width: 600px) {
+            nav ul li {
+                display: block;
+                margin: 10px 0;
+            }
+
+            article {
+                padding: 15px;
+            }
+
+            article img {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>My Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#about-section">About</a></li>
+                <li><a href="#stories-section">Stories</a></li>
+                <li><a href="#contact-section">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about-section">
+            <h2>About Me</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. I love writing stories and sharing my thoughts
+                with the world.</p>
+        </section>
+
+        <section id="stories-section">
+            <h2>Stories</h2>
+
+            <article>
+                <figure>
+                    <img src="https://cdn.pixabay.com/photo/2014/10/27/18/32/obsidian-505332_960_720.jpg"
+                        alt="Obsidian" />
+                    <figcaption>A piece of obsidian</figcaption>
+                </figure>
+                <h3>Story Title One</h3>
+                <p>This is a story about a mysterious black rock with magical properties...</p>
+            </article>
+
+            <article>
+                <figure>
+                    <img src="https://cdn.pixabay.com/photo/2014/10/27/18/32/obsidian-505332_960_720.jpg"
+                        alt="Obsidian" />
+                    <figcaption>A piece of obsidian</figcaption>
+                </figure>
+                <h3>Story Title Two</h3>
+                <p>Another adventure begins as we explore the depths of volcanic glass...</p>
+            </article>
+
+            <article>
+                <figure>
+                    <img src="https://cdn.pixabay.com/photo/2014/10/27/18/32/obsidian-505332_960_720.jpg"
+                        alt="Obsidian" />
+                    <figcaption>A piece of obsidian</figcaption>
+                </figure>
+                <h3>Story Title Three</h3>
+                <p>The legends say obsidian was once used by ancient warriors as mirrors of the soul...</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <ul>
+            <li>Codédex Daily © 2023</li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/blog">Blog</a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>
