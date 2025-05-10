@@ -50,9 +50,12 @@ Layout and hierarchy using semantic tags.
 
 Collecting user input with form elements.
 
-- [form.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/12_form.html)
-- [survey.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/13_survey.html)
-- [signup.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/14_signup.html)
+- [15_google.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/15_google.html)
+- [16_sign_up.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/16_sign_up.html)
+- [17_sign_up.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/17_sign_up.html)
+- [18_rsvp.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/18_rsvp.html)
+- [19_contact_us.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/19_contact_us.html)
+- [20_welp.html](https://github.com/NiralPatel-15/codedex-HTML/blob/main/3-form/20_welp.html)
 
 ### 🏷️ 4. Semantic HTML
 
