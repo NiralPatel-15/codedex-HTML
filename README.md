@@ -89,3 +89,9 @@ Feel free to fork this repo and open a pull request. Let’s grow and learn toge
 Join the [Codédex Community](https://www.codedex.io/community) and connect with other developers!
 
 ---
+
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
